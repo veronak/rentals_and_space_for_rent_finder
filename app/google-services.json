@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "414027423081",
+    "firebase_url": "https://la-maison-ae96b.firebaseio.com",
+    "project_id": "la-maison-ae96b",
+    "storage_bucket": "la-maison-ae96b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414027423081:android:c6fbe060ec979db8e8f1f8",
+        "android_client_info": {
+          "package_name": "com.veron.lamaison"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414027423081-r8eefojtoufvhsjrmgdnpj2e8r6osj84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzXLj3yjOR8g8EjQjtpsluj8j9VOHcz1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414027423081-r8eefojtoufvhsjrmgdnpj2e8r6osj84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
